@@ -41,7 +41,7 @@ A full working version of the same notebook is available in Kaggle [here](https:
 |   Development.ipynb                   # This Readme File
 |   main.py                             # Python Scrypt. Runnable code.  opens every file in the  'pickles' directory to perform model evaluation
 |   notebook.ipynb                      # Descriptive information of the python script, enable to modify and understand the re-ranking process.
-|   Report.pdf                          # Contains a comprehensive description and documentation for this project                                    
+|   Team-008-MSMARCO-RERANK-report..pdf # Contains a comprehensive description and documentation for this project                                    
 |
 \---pickles                             # Containes serialized information for the queries and rankngs used in this project
         advanced_rankings.pkl           # Contains the document rankings used in the advanced model.
